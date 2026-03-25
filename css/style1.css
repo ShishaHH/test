@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: black;
+}
+.note {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    color: #ffffff;
+}
+
+.bbo {
+    background-color: rgb(81, 49, 136);
+    color: #ffffff;
+    border: none;
+
+}
+template {
+    border: none;
+}
+textarea:focus-visible{
+    outline: none;
+} 

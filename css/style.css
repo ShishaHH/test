@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: black;
+}
+a.buttom {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 30px;
+    background-color: black;
+}
+button {
+    background-color: black;
+    border: none;
+    
+}
+
+h1 {
+    color: #ffffff;
+}
